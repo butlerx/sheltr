@@ -1,0 +1,37 @@
+charities{
+    id: interger,
+    name: "string",
+    img: "string",
+    contact: support for many contacts,
+    description: "string"
+}
+shelters{
+    id: int,
+    type: int,
+    location: 2 floats
+    ownerId: int,
+    description: "string",
+    support for many tags
+}
+users{
+    id: int,
+    username: "string",
+    emails: "string",
+    password: "string",
+    salt: "string"
+}
+votes{
+    userId: int,
+    shelterId: int
+    value: int
+}
+reports{
+    shelterId: int,
+    type: int/bool,
+    status: "string",
+    reason: "string"
+}
+tags{
+    ID: int,
+    
+}
