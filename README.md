@@ -1,2 +1,2 @@
 # sheltr
-crowd source disaster responce andassistance app
+crowd source disaster responce and assistance app
